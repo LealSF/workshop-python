@@ -1,0 +1,2 @@
+Python memiliki cara untuk meletakkan definisi dalam file dan menggunakannya dalam skrip atau dalam contoh interaktif dari interpreter. 
+File seperti itu disebut module; definisi dari modul dapat imported ke modul lain atau ke modul main (kumpulan variabel yang Anda memiliki akses ke dalam skrip yang dieksekusi di tingkat atas dan dalam mode kalkulator).
