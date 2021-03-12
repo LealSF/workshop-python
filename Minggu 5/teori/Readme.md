@@ -1,0 +1,1 @@
+Input adalah masukan yang kita berikan ke program. Program akan memprosesnya dan menampilkan hasil outputnya. Input, proses, dan output adalah inti dari semua program komputer. Pada tulisan ini, kita akan belajar cara mengambil input dan menampilkan output untuk program berbasis teks.
